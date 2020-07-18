@@ -1,0 +1,2 @@
+/voices
+/_pycache_
